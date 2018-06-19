@@ -1,2 +1,2 @@
-# hello-world
+# Automated Message
 First Repository
